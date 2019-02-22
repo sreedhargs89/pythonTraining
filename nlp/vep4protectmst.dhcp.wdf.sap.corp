@@ -1,0 +1,9 @@
+vep4protectmst.dhcp.wdf.sap.corp
+
+download sendMail
+https://fastapi.metacpan.org/source/ABELTJE/Test-Smoke-1.72/lib/inc/Mail/Sendmail.pm
+
+Location:
+/usr/lib/perl5/site_perl/5.18.2/Mail
+
+
